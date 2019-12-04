@@ -2,13 +2,10 @@
 package ordenata;
 
 /**
- *
+ *Se crea una clase llamada Window, con los atributos respectivos.
  * @author DANIELCASTELAO\oyagualendara
  */
-/**
- *Se crea una clase llamada Window, con los atributos respectivos.
- * @author orlan
- */
+
 public class Window {
      private String brands;
     private float brinch;

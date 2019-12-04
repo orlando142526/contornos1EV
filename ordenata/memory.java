@@ -2,7 +2,7 @@
 package ordenata;
 
 /**
- *
+ *Se crea una clase llamada memory, con los atributos respectivos.
  * @author DANIELCASTELAO\oyagualendara
  */
 public class memory {
