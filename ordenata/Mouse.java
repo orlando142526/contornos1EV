@@ -1,7 +1,7 @@
 package ordenata;
 
 /**
- *Se crea una clase llamada Mouse, con su atributo Mouse
+ *Se crea una clase llamada Mouse, con su atributo Mouse.
  * @author DANIELCASTELAO\oyagualendara
  */
 public class Mouse {
